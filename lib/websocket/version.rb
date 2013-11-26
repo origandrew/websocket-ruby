@@ -1,3 +1,3 @@
 module WebSocket
-  VERSION = '1.1.2'
+  VERSION = '1.0.7'
 end
